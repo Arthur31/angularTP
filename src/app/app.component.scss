@@ -1,0 +1,22 @@
+.navBar {
+  position: absolute;
+  z-index: 999;
+  top: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.5);
+  height: 50px;
+}
+
+.brandLogo {
+  height: 40px;
+}
+
+.navRightItem {
+  float: right;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+  height: 50px;
+  line-height: 50px;
+  margin-right: 10px;
+}
